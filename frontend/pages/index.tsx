@@ -1,10 +1,7 @@
-import Link from "next/link";
-
-export default () => (
+const IndexPage = () => (
   <div>
     <h1>Hi!</h1>
-    <Link href="/sell">
-      <a>Sell</a>
-    </Link>
   </div>
 );
+
+export default IndexPage;
