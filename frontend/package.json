@@ -28,7 +28,10 @@
   },
   "homepage": "https://github.com/aksharpatel47/advanced-react-graphql#readme",
   "dependencies": {
+    "@emotion/core": "^10.0.7",
+    "@emotion/styled": "^10.0.7",
     "@zeit/next-typescript": "^1.1.1",
+    "emotion-theming": "^10.0.7",
     "next": "^7.0.2",
     "react": "^16.8.1",
     "react-dom": "^16.8.1"
