@@ -28,18 +28,18 @@
   },
   "homepage": "https://github.com/aksharpatel47/advanced-react-graphql#readme",
   "dependencies": {
-    "@emotion/core": "^10.0.7",
-    "@emotion/styled": "^10.0.7",
-    "@zeit/next-typescript": "^1.1.1",
-    "emotion-theming": "^10.0.7",
-    "next": "^7.0.2",
-    "react": "^16.8.1",
-    "react-dom": "^16.8.1"
+    "@emotion/core": "10.0.10",
+    "@emotion/styled": "10.0.11",
+    "@zeit/next-typescript": "1.1.1",
+    "emotion-theming": "10.0.10",
+    "next": "8.1.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
   },
   "devDependencies": {
-    "@types/next": "^7.0.9",
-    "@types/react": "^16.8.2",
-    "@types/react-dom": "^16.8.0",
-    "typescript": "^3.3.1"
+    "@types/next": "8.0.5",
+    "@types/react": "16.8.17",
+    "@types/react-dom": "16.8.4",
+    "typescript": "3.4.5"
   }
 }
